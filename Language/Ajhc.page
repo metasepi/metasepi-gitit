@@ -1,1 +1,6 @@
-ATS is a statically typed programming language that unifies implementation with formal specification. It is equipped with a highly expressive type system rooted in the framework Applied Type System, which gives the language its name. In particular, both dependent types and linear types are available in ATS.
+Jhc converts Haskell code into pure C language code running with jhc's runtime. And the runtime is written with 3000 line (include comments) pure C code. It's a magic!
+
+Ajhc's mission is to keep contribution to jhc in the repository. Because the upstream author of jhc, John Meacham, can't pull the contribution speedy. (I think he is too busy to do it.) We should feedback jhc any changes. And also Ajhc aims to provide Metasepi project with a method to rewrite NetBSD kernel using Haskell. The method is called Snatch-driven development.
+
+Ajhc is, so to speak, an accelerator to develop jhc.
+
