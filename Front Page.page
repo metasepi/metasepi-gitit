@@ -2,11 +2,7 @@
 format: Markdown
 ...
 
-# Woo-hoo!
-
-I can login gitit using github account!
-
-# Welcome to Gitit!
+# Welcome to Metasepi Wiki
 
 This is the front page of your new gitit wiki.  You can edit this
 page by clicking on the "edit" tab at the top of the screen.
@@ -18,3 +14,8 @@ Help is always available through the "Help" link in the sidebar.
 More details on installing and configurating gitit are available
 in the [Gitit User’s Guide]().
 
+# Contents
+
+* [Language/Ajhc](Language/Ajhc)
+* [Language/ATS](Language/ATS)
+* [Project/Functional_IoT](Project/Functional_IoT)
